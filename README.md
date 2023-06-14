@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kalshandhanasekara@gmail.com**
 
-- ⚡ Fun fact **Public speaking is something I aspire to, but it absolutely terrifies me.**
+- ⚡ Fun fact **I addict with coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

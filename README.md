@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js node.js**
 
-- 📫 How to reach me **kalshandhanasekara@gmail.com**
+- 📫 How to reach me **kaveeshadhanasekara@gmail.com**
 
 - ⚡ Fun fact **I addict with coffee.**
 

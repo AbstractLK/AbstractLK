@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaveeshakalshan" target="blank"><img src="https://img.shields.io/twitter/follow/kaveeshakalshan?logo=twitter&style=for-the-badge" alt="kaveeshakalshan" /></a> </p>
 
-- 🌐 Portfolio - https://www.kaveeshadhanasekara.live
+- 🌐 Portfolio - https://www.kaveeshadhanasekara.tech
 
 - 🌱 I’m currently learning **React.js node.js**
 
